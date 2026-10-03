@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">debateos</string>
+    <string name="title_activity_main">debateos</string>
+    <string name="package_name">com.debateos.app</string>
+    <string name="custom_url_scheme">com.debateos.app</string>
+</resources>
